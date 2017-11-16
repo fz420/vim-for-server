@@ -42,10 +42,10 @@ set visualbell t_vb=            " turn off error beep/flash
 set t_vb=
 set tm=500
 
-
+" bookmark
 " show location
-set cursorcolumn
-set cursorline
+" set cursorcolumn
+" set cursorline
 
 
 " movement
